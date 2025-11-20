@@ -1,6 +1,5 @@
 streamlit
 pandas
 pydantic
-openpyxl
 pdfminer.six==20220319
 google-genai
